@@ -1,4 +1,4 @@
-# README
+# Steps to create account.
 
 ## How to Create Accounts on GitHub and GitBook
 
